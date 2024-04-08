@@ -44,7 +44,7 @@
     + php artisan websockets:serve
 * you can visit the website from browser typing 'localhost'
 * you have to login the project with default admin credential
-    + User Name: al@gmail.com
+    + User Name: biralo@gmail.com
     + Password : password
 * from there you can approve patient's register request
 

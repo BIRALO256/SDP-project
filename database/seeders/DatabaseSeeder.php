@@ -29,8 +29,8 @@ class DatabaseSeeder extends Seeder
         
         User::factory()->state(function (array $attributes){
             return [
-                'name' => "Alave",
-                'email' => 'al@gmail.com',
+                'name' => "JovicBiralo",
+                'email' => 'biralo@gmail.com',
                 'email_verified_at' => now(),
                 'role'=> 'admin',
                 'approved'=>true,
